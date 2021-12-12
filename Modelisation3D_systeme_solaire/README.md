@@ -1,5 +1,6 @@
-Creation of the solar system.
-To see this project:
--pull
--open folder in vscode
--click on the "Go Live" button
+Creation of the solar system. <br />
+To see this project: <br />
+-pull <br />
+-open folder in vscode <br />
+-click on the "Go Live" button <br />
+ 
